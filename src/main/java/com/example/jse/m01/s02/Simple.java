@@ -3,7 +3,7 @@
  */
 package com.example.jse.m01.s02;
 
-// import java.lang.Math; // java.lang implicitly imported
+// import java.lang.Math; // java.lang implicitly importeddddd
 
 /**
  * A "hello" class
